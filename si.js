@@ -1,4 +1,4 @@
-console.log("QUE HACES ACA? RAJA DE ACA.");
+console.log("No hay nada que ver acá.");
 var pregunta = prompt("Ahora te voy a mostrar unas cosas y vos tenés que poner lo que te pida, entendiste (escribir sis o non)?");
 if (pregunta == "non") {
   alert("Bue, igual, llena este formulario:");
